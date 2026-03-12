@@ -252,7 +252,7 @@ header {
 
     height: 450px;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("Assets/koppee/imgi_18_bg.jpg");
+        url("Assets/imgi_18_bg.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -288,8 +288,7 @@ header {
 .signup-box input {
 
     padding: 15px;
-    width: 300px;
-    border: 2px;
+    border: 2px solid wheat;
     border-radius: 5px;
     outline: none;
     font-size: 16px;
@@ -416,7 +415,7 @@ header {
     flex: 1;
     padding: 60px;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url('Assets/koppee/imgi_18_bg.jpg');
+        url('Assets/imgi_18_bg.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -629,8 +628,7 @@ button:hover {
 .newsletter input {
     padding: 12px;
     margin-top: 5px;
-    width: 180px;
-    border: 2px;
+    border: 2px solid white;
     border-radius: 5px;
     outline: #c38b4d;
 }
